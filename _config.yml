@@ -9,7 +9,7 @@
 title: Zákazy jázd kamiónov v Európe
 email: hello@martinrariga.com
 description: Zákazy jázd kamiónov nad 7,5t v Európskych krajinách.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/zakazyjazd" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
